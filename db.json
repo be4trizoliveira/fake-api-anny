@@ -1,0 +1,22 @@
+{
+  "informacoesSintomas": [
+    {
+      "id": 1,
+      "titulo": "Introdução",
+      "subtitulo": "Sintomas iniciais",
+      "texto": "O câncer de pulmão pode se manifestar de maneiras silenciosas no início, mas alguns sintomas podem indicar que algo não está bem. Identificar essas alterações de forma precoce faz toda a diferença no diagnóstico e no tratamento."
+    },
+    {
+      "id": 2,
+      "titulo": "Sintoma 1",
+      "subtitulo": "Dores",
+      "texto": "Dor aguda ou incômoda."
+    },
+    {
+      "id": 3,
+      "titulo": "Sintoma 2",
+      "subtitulo": "Tosse persistente",
+      "texto": "Tosse: com catarro, seca, com sangue, forte ou crônica."
+    }
+  ]
+}
